@@ -24,5 +24,11 @@ An independent game development team.
 - [SmugLookingBarrel](https://steamcommunity.com/id/smugbarrel)
 
 <br>
+
+### Misc
+
+- profile pics (dsx75, Taidana Kage) by [kyrrsen](https://www.deviantart.com/kyrrsen)
+
+<br>
 <br>
 <br>
