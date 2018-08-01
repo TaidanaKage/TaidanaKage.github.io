@@ -1,5 +1,7 @@
 # Taidana Kage
 
+![Taidana Kage](img/taidana-kage-150.png)
+
 An independent game development team.
 
 <br>
