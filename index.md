@@ -18,7 +18,7 @@ An independent game development team.
 
 <br>
 
-### Members
+### Team
 
 - [dsx75](https://steamcommunity.com/id/dsx75)
 - [SmugLookingBarrel](https://steamcommunity.com/id/smugbarrel)
